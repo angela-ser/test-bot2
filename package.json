@@ -1,6 +1,6 @@
 {
   "name": "x-asena",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./bot.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neeraj-x0/x-asena.git"
+    "url": "git+https://github.com/angela-ser/test-bot2.git"
   },
   "keywords": [
     "whatsapp",
